@@ -6,7 +6,7 @@ This repository is a collection of my data science projects, showcasing my skill
 
 ### 1. Data Cleaning & Visualization
 
-This project demonstrates practical techniques for handling raw data to prepare it for analysis. The included Jupyter notebook, `graphs_in_python.ipynb`, serves as a guide for data visualization.
+This project demonstrates practical techniques for handling raw data to prepare it for analysis. The included Jupyter notebook, `data_visualizing.ipynb`, serves as a guide for data visualization.
 
 * **Data Cleaning**: Explores methods for handling missing values, such as imputation, and other data preprocessing techniques.
 * **Data Visualization**: Contains detailed examples of creating and customizing various types of graphs, including line graphs and scatter plots, using Python libraries like `Matplotlib`, `Seaborn`, `NumPy`, and `Pandas`. The visualizations are used to reveal trends and relationships within datasets, such as a sample car dataset.
