@@ -1,6 +1,6 @@
 # Data Science Projects
 
-This repository is a collection of my data science projects, showcasing my skills in the end-to-end data science lifecycle, from data cleaning and exploratory data analysis to data visualization and the application of machine learning. The projects here are developed using popular Python libraries and are a testament to my commitment to continuous learning in the field.
+This repository is a collection of my data science projects, showcasing my skills in the end-to-end data science lifecycle, from data cleaning and exploratory data analysis to data visualization and the application of machine learning. The projects here are developed using popular Python libraries and are a testament to my commitment to continuous learning in the field. Some of these projects are based on concepts from the book Big Data Analysis with Python.
 
 ## Projects Overview
 
